@@ -109,5 +109,27 @@ Cloning and deploying VMs)
 - [ ] OSINT Framework Exploration
 - [ ] Maltego Visualization
 
-###  Class 07:Active Information Gathering
-      
+###  Class 08:Active Information Gathering
+- [ ] DNS Enumeration
+- [ ] Interacting with a DNS Server
+- [ ] Automating Lookups
+- [ ] Forward Lookup Brute Force
+- [ ] Reverse Lookup Brute Force
+- [ ] DNS Zone Transfers
+- [ ] Relevant Tools in Kali Linux
+- [ ] Port Scanning
+- [ ] TCP / UDP Scanning
+- [ ] Port Scanning with Nmap
+- [ ] Masscan
+- [ ] SMB Enumeration
+- [ ] Scanning for the NetBIOS Service
+- [ ] Nmap SMB NSE Scripts
+- [ ] NFS Enumeration
+- [ ] Scanning for NFS Shares
+- [ ] Nmap NFS NSE Scripts
+- [ ] SMTP Enumeration
+- [ ] SNMP Enumeration
+- [ ] The SNMP MIB Tree
+- [ ] Scanning for SNMP
+- [ ] Windows SNMP Enumeration Example
+
