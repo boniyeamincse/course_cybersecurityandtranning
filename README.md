@@ -27,3 +27,15 @@ This course provides an in-depth exploration of ethical hacking techniques and c
   
 
 ## Course Outline:
+
+### Class 01: Orientation Class
+- [ ] Introduction to the course objectives and structure
+- [ ] Overview of becoming an ethical hacker
+- [ ] Job Market Internation Flield & Bangladesh
+- [ ] How to make Band youself 
+- [ ] Installation and setup on Windows, macOS, and Linux
+- [ ] Importance of note-keeping in ethical hacking
+
+### Class 02: Operating System ( Linux Winwods )
+- [ ] Fundamentals of operating systems and their role in cybersecurity
+- [ ] 
