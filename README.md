@@ -58,3 +58,14 @@ Cloning and deploying VMs)
 - [ ] Install Vulnerable Applications
 - [ ] Set Up Security Tools
 - [ ] Join Communities and Resources
+
+### Class 04: Introduction to Networking
+- [ ] Overview of Networking
+- [ ] Types of Networks
+- [ ] Network Devices
+- [ ] Network Models
+- [ ] Understanding IP Addresses
+- [ ] Mac Address
+- [ ] Introduction to Protocols
+- [ ] Network Security Basics (IDS , IPS , firewall)
+- [ ] Network Tools Troubleshooting
