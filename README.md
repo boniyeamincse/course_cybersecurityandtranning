@@ -1,7 +1,7 @@
 # Cybersecurity & Industrial Training
 
 ## Description:
-This course provides an in-depth exploration of ethical hacking techniques and cybersecurity principles. Students will learn how to set up hacking practice labs, conduct information gathering, vulnerability scanning, and exploit common web vulnerabilities. The course also covers topics such as operating systems, networking, Linux, and the Ethical Hacker Methodology. Additionally, students will gain insights into SIEM (Security Information and Event Management) and SOC (Security Operations Center) operations, and practical guidance on job application and professional conduct in the field.
+This course provides an in-depth exploration of ethical hacking techniques and cybersecurity principles. Students will learn how to set up hacking practice labs, conduct information gathering, and vulnerability scanning, and exploit common web vulnerabilities. The course also covers topics such as operating systems, networking, Linux, and the Ethical Hacker Methodology. Additionally, students will gain insights into SIEM (Security Information and Event Management) and SOC (Security Operations Center) operations and practical guidance on job application and professional conduct in the field.
 
 ## What You'll Learn:
 - [ ] Ethical hacking fundamentals and principles.
@@ -41,8 +41,20 @@ This course provides an in-depth exploration of ethical hacking techniques and c
 - [ ] Introduction to Virtualization and Hyper-V
 - [ ] Vmware, VirtualBoxox
 - [ ] Virtual Machine Management:(Creating virtual machines (VMs)
-Configuring VM settings
-Understanding virtual hardware
-Working with virtual disks and storage
-Managing snapshots
+Configuring VM settings,
+Understanding virtual hardware,
+Working with virtual disks and storage,
+Managing snapshots,
 Cloning and deploying VMs)
+- [ ] Networking in VMware Environment: 
+- [ ] Disaster Recovery and Backup
+- [ ] Troubleshooting VMware Environment
+
+###Class 03: Creating Hacking Practice Lab
+
+- [ ] Set Up a Virtualization Environment
+- [ ] Choose Operating Systems
+- [ ] Configure Networking
+- [ ] Install Vulnerable Applications
+- [ ] Set Up Security Tools
+- [ ] Join Communities and Resources
