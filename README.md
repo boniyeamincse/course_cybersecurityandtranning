@@ -83,4 +83,30 @@ Cloning and deploying VMs)
 - [ ] Managing Network Security (Firewalld)
 - [ ] Working with Backup, Archive, Log Files
 
+###  Class 06: The Ethical Hacker Methodology & Cyber Security Domain
+- [ ] Understanding the ethical hacker methodology
+- [ ] Overview of the cyber security domain and its subfields
+
+###  Class 07: Passive Information Gathering
+- [ ] Taking Notes
+- [ ] Website Recon
+- [ ] Whois Enumeration
+- [ ] Google Hacking
+- [ ] Netcraft
+[ ] Recon-ng
+[ ] Open-Source Code
+[ ] Shodan
+[ ] Security Headers Scanner
+[ ] SSL Server Test
+[ ] Pastebin
+[ ] User Information Gathering
+[ ] Email Harvesting
+[ ] Password Dumps
+[ ] Social Media Tools
+[ ] Site-Specific Tools
+[ ] Stack Overflow
+[ ] Information Gathering Frameworks
+[ ] OSINT Framework
+[ ] Maltego
+###  Class 07:Active Information Gathering
       
