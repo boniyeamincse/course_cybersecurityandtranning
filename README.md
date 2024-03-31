@@ -26,7 +26,7 @@ This course provides an in-depth exploration of ethical hacking techniques and c
   ## Course Fee :
  - [ ] Admission Fee :1000 BDT
  - [ ] course Fee : 5000  BDT
- - [ ] For Poor Student : 2000 BDT
+ - [ ] For Poor Students : 2000 BDT
  - [ ] Classes : 21 Days
   
 
