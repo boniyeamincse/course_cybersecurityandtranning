@@ -69,3 +69,18 @@ Cloning and deploying VMs)
 - [ ] Introduction to Protocols
 - [ ] Network Security Basics (IDS , IPS , firewall)
 - [ ] Network Tools Troubleshooting
+
+### Class 05: Introduction to Linux
+
+- [ ] Introduction to UNIX & LINUX
+- [ ] Getting started with kali Linux
+- [ ] Linux Text Processing Tools
+- [ ] Linux Text Editors
+- [ ] User and Group Administration
+- [ ] Linux File Permissions
+- [ ] Network Management
+- [ ] Configuring OpenSSH Service
+- [ ] Managing Network Security (Firewalld)
+- [ ] Working with Backup, Archive, Log Files
+
+      
