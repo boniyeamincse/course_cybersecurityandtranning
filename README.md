@@ -23,7 +23,10 @@ This course provides an in-depth exploration of ethical hacking techniques and c
 - [ ] Ability to install and configure software tools and virtual environments for hacking practice labs.
 - [ ] Effective communication skills for collaboration and reporting findings in a professional context
   
-  ## Course Fee: 5000 BDT 
+  ## Course Fee :
+ - [ ] Admission Fee :1000 BDT
+ - [ ] course Fee : 5000  BDT
+ - [ ] For Poor Student : 2000 BDT 
   
 
 ## Course Outline:
