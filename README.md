@@ -153,7 +153,7 @@ Cloning and deploying VMs)
 - [ ] Migrating Processes
 - [ ] Post-Exploitation Modules
 - [ ] Pivoting with the Metasploit Framework
-###  Class 09:SIEM & SOC 
+###  Class 10:SIEM & SOC 
       - [ ] Introduction to SIEM and SOC
 - [ ] SIEM Components and Architecture
 - [ ] SIEM Use Cases
@@ -171,7 +171,7 @@ Cloning and deploying VMs)
 - [ ] Compliance and Regulatory Requirements
 - [ ] Cloud SIEM and SOC
 - [ ] Challenges and Future Trends
-###  Class 09:WAZUH 
+###  Class 11:WAZUH 
 - [ ] Introduction to Wazuh: Overview of what Wazuh is and its capabilities.
 - [ ] Wazuh Architecture: Explanation of the components and how they interact.
 - [ ] Installation and Setup: Step-by-step guide on installing and configuring Wazuh.
@@ -190,7 +190,25 @@ Cloning and deploying VMs)
 - [ ] Use Cases: Real-world scenarios where Wazuh can be deployed effectively.
 - [ ] Wazuh API: Exploring the Wazuh API for custom integrations and automation.
 - [ ] Best Practices: Recommendations for best practices when deploying and using Wazuh in different environments.
+- [ ] LAB01 : Setup the WAZUH in Linux system
 
       
+###  Class 12: LAB For Incidents, Events and Logging
+- [ ] Lab 1: Windows Log Analysis
+- [ ] Lab 2: Linux Log Analysis
+- [ ] Lab 3: Windows Firewall Log Analysis
+- [ ] Lab 4: Linux Firewall Log Analysis
+- [ ] Lab 5: Router Log Analysis
+- [ ] Lab 6: IIS Log Analysis
+- [ ] Lab 7: Apache Log Analysis
+
+### class 13 : Working in a Real-Time Company Environment
+- [ ] Lab 7: Apache Log Analysis
+###Class 14: Job Application and Professional Conduct
+- [ ] Lab 7: Apache Log Analysis
+### Class 15 : Discussion and Closing of the Session
+- [ ] Lab 7: Apache Log Analysis
+
+
 
 
