@@ -32,10 +32,17 @@ This course provides an in-depth exploration of ethical hacking techniques and c
 - [ ] Introduction to the course objectives and structure
 - [ ] Overview of becoming an ethical hacker
 - [ ] Job Market Internation Flield & Bangladesh
-- [ ] How to make Band youself 
+- [ ] How to make Band yourself 
 - [ ] Installation and setup on Windows, macOS, and Linux
 - [ ] Importance of note-keeping in ethical hacking
 
 ### Class 02: Operating System ( Linux Winwods )
 - [ ] Fundamentals of operating systems and their role in cybersecurity
-- [ ] 
+- [ ] Introduction to Virtualization and Hyper-V
+- [ ] Vmware, VirtualBoxox
+- [ ] Virtual Machine Management:(Creating virtual machines (VMs)
+Configuring VM settings
+Understanding virtual hardware
+Working with virtual disks and storage
+Managing snapshots
+Cloning and deploying VMs)
