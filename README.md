@@ -23,7 +23,7 @@ This course provides an in-depth exploration of ethical hacking techniques and c
 - [ ] Ability to install and configure software tools and virtual environments for hacking practice labs.
 - [ ] Effective communication skills for collaboration and reporting findings in a professional context
   
-  
+  ## Course Fee: 5000 BDT 
   
 
 ## Course Outline:
@@ -154,7 +154,7 @@ Cloning and deploying VMs)
 - [ ] Post-Exploitation Modules
 - [ ] Pivoting with the Metasploit Framework
 ###  Class 10:SIEM & SOC 
-      - [ ] Introduction to SIEM and SOC
+ - [ ] Introduction to SIEM and SOC
 - [ ] SIEM Components and Architecture
 - [ ] SIEM Use Cases
 - [ ] SIEM Implementation
@@ -202,12 +202,14 @@ Cloning and deploying VMs)
 - [ ] Lab 6: IIS Log Analysis
 - [ ] Lab 7: Apache Log Analysis
 
-### class 13 : Working in a Real-Time Company Environment
+### Class 13 : Working in a Real-Time Company Environment
 - [ ] Lab 7: Apache Log Analysis
-###Class 14: Job Application and Professional Conduct
-- [ ] Lab 7: Apache Log Analysis
+### Class 14: Job Application and Professional Conduct
+- [ ] Lab Guidance on crafting resumes, cover letters, and job applications in the cybersecurity field
+- [ ] Professional conduct and ethics in the workplace
 ### Class 15 : Discussion and Closing of the Session
-- [ ] Lab 7: Apache Log Analysis
+- [ ] Recap All Class
+- [ ] 
 
 
 
