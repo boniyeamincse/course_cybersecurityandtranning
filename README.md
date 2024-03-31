@@ -50,7 +50,7 @@ Cloning and deploying VMs)
 - [ ] Disaster Recovery and Backup
 - [ ] Troubleshooting VMware Environment
 
-###Class 03: Creating Hacking Practice Lab
+### Class 03: Creating Hacking Practice Lab
 
 - [ ] Set Up a Virtualization Environment
 - [ ] Choose Operating Systems
