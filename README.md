@@ -88,25 +88,26 @@ Cloning and deploying VMs)
 - [ ] Overview of the cyber security domain and its subfields
 
 ###  Class 07: Passive Information Gathering
-- [ ] Taking Notes
-- [ ] Website Recon
-- [ ] Whois Enumeration
-- [ ] Google Hacking
-- [ ] Netcraft
-[ ] Recon-ng
-[ ] Open-Source Code
-[ ] Shodan
-[ ] Security Headers Scanner
-[ ] SSL Server Test
-[ ] Pastebin
-[ ] User Information Gathering
-[ ] Email Harvesting
-[ ] Password Dumps
-[ ] Social Media Tools
-[ ] Site-Specific Tools
-[ ] Stack Overflow
-[ ] Information Gathering Frameworks
-[ ] OSINT Framework
-[ ] Maltego
+- [ ] Note-Taking
+- [ ] Website Reconnaissance
+- [ ] Whois Lookup
+- [ ] Google Dorking
+- [ ] Netcraft Analysis
+- [ ] Recon-ng Framework
+- [ ] Open-Source Code Examination
+- [ ] Shodan Search
+- [ ] Security Headers Analysis
+- [ ] SSL Certificate Evaluation
+- [ ] Pastebin Scrutiny
+- [ ] User Profiling
+- [ ] Email Scraping
+- [ ] Password Breach Analysis
+- [ ] Social Media Investigation
+- [ ] Site-Specific Analysis
+- [ ] Stack Overflow Examination
+- [ ] Information Gathering Tools
+- [ ] OSINT Framework Exploration
+- [ ] Maltego Visualization
+
 ###  Class 07:Active Information Gathering
       
