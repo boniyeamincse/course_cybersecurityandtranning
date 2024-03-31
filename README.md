@@ -132,4 +132,65 @@ Cloning and deploying VMs)
 - [ ] The SNMP MIB Tree
 - [ ] Scanning for SNMP
 - [ ] Windows SNMP Enumeration Example
+###  Class 09:The Metasploit Framework
+- [ ] Metasploit User Interfaces and Setup
+- [ ] Getting Familiar with MSF Syntax
+- [ ] Metasploit Database Access
+- [ ] Auxiliary Modules
+- [ ] Exploit Modules
+- [ ] SyncBreeze Enterprise
+- [ ] Metasploit Payloads
+- [ ] Staged vs Non-Staged Payloads
+- [ ] Meterpreter Payloads
+- [ ] Experimenting with Meterpreter
+- [ ] Executable Payloads
+- [ ] Metasploit Exploit Multi Handler
+- [ ] Client-Side Attacks
+- [ ] Advanced Features and Transports
+- [ ] Building Our Own MSF Module
+- [ ] Post-Exploitation with Metasploit
+- [ ] Core Post-Exploitation Features
+- [ ] Migrating Processes
+- [ ] Post-Exploitation Modules
+- [ ] Pivoting with the Metasploit Framework
+###  Class 09:SIEM & SOC 
+      - [ ] Introduction to SIEM and SOC
+- [ ] SIEM Components and Architecture
+- [ ] SIEM Use Cases
+- [ ] SIEM Implementation
+- [ ] Log Management and Collection
+- [ ] Event Correlation and Analysis
+- [ ] Threat Detection and Alerting
+- [ ] Incident Response with SIEM
+- [ ] Integration with Other Security Tools
+- [ ] SIEM Best Practices
+- [ ] SOC Structure and Operations
+- [ ] Threat Intelligence Integration
+- [ ] Security Orchestration and Automation
+- [ ] Metrics and Reporting
+- [ ] Compliance and Regulatory Requirements
+- [ ] Cloud SIEM and SOC
+- [ ] Challenges and Future Trends
+###  Class 09:WAZUH 
+- [ ] Introduction to Wazuh: Overview of what Wazuh is and its capabilities.
+- [ ] Wazuh Architecture: Explanation of the components and how they interact.
+- [ ] Installation and Setup: Step-by-step guide on installing and configuring Wazuh.
+- [ ] Wazuh Manager Configuration: Configuring the Wazuh manager for optimal performance.
+- [ ] Agent Deployment: How to deploy Wazuh agents on different operating systems.
+- [ ] Integration with Elastic Stack: Setting up Wazuh with the Elastic Stack for log analysis and visualization.
+- [ ] Integration with SIEMs: Integrating Wazuh with other Security Information and Event Management systems.
+- [ ] Rule Creation: Creating custom rules for specific use cases.
+- [ ] Incident Response with Wazuh: Using Wazuh for incident detection and response.
+- [ ] File Integrity Monitoring (FIM): Implementing FIM with Wazuh to monitor file changes.
+- [ ] Vulnerability Detection: Using Wazuh to detect vulnerabilities on the network.
+- [ ] Compliance Auditing: Using Wazuh to ensure compliance with regulatory standards.
+- [ ] Threat Hunting with Wazuh: Leveraging Wazuh for proactive threat hunting.
+- [ ] Troubleshooting and Maintenance: Common issues and how to resolve them, as well as regular maintenance tasks.
+- [ ] Advanced Configuration: Advanced settings and configurations for fine-tuning Wazuh.
+- [ ] Use Cases: Real-world scenarios where Wazuh can be deployed effectively.
+- [ ] Wazuh API: Exploring the Wazuh API for custom integrations and automation.
+- [ ] Best Practices: Recommendations for best practices when deploying and using Wazuh in different environments.
+
+      
+
 
